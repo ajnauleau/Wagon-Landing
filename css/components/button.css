@@ -1,0 +1,18 @@
+
+.button {
+    width: 92px;
+    height: 32px;
+    padding: 12px 22px;
+    margin-top: 42px;
+    border-radius: 6px;
+    background-color: lightgreen;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: seagreen;
+}

@@ -1,0 +1,24 @@
+
+.card {
+    width: 280px;
+    height: 320px;
+    border: lightgrey 1px solid;
+    border-radius: 2px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.card h4 {
+    padding: 12px;
+}
+
+.card p {
+    color: lightgrey;
+}
+
+.card-image {
+    width: 80%;
+    height: 120px;
+    object-fit: cover;
+    margin: 22px;
+}
